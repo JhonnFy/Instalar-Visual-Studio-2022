@@ -15,4 +15,8 @@ https://visualstudio.microsoft.com/vs/
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f5b4e252-e6fb-4a98-817d-455ceb37e7d9" />
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/3d3a0111-3c6a-43f4-a00f-1f6b7abc63d7" />
 
+# Db
+✅ .NET 8.0 SDK (necesario para EF Core moderno).
+✅ Entity Framework 6 tools (útil para proyectos MVC o WinForms).
+✅ Data storage and processing tools (subcomponentes adicionales de SSDT).
 
