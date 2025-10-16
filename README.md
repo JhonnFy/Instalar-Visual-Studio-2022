@@ -22,3 +22,19 @@ https://visualstudio.microsoft.com/vs/
 
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/8db13aa1-0e67-402d-8529-2224faf730fc" />
 
+
+# Net 8
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/76484c9c-835d-4656-8dc2-3007a8b210d2" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/efe4226e-4a79-4cc0-8836-5ea09ed144cb" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f04439be-1d06-48ba-aa3d-f81b8af361d7" />
+
+
+
+
+
+
+
+
+
+
