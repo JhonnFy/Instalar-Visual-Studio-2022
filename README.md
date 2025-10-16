@@ -20,3 +20,5 @@ https://visualstudio.microsoft.com/vs/
 ✅ Entity Framework 6 tools (útil para proyectos MVC o WinForms).
 ✅ Data storage and processing tools (subcomponentes adicionales de SSDT).
 
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/8db13aa1-0e67-402d-8529-2224faf730fc" />
+
